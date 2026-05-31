@@ -1,7 +1,7 @@
 import requests
 
 # Replace with your Hunter.io API key
-API_KEY = '39c73adc6b0efbc037cee605ca5d94a125f67cc3'
+API_KEY = 'YOUR-HUNTER-API-KEY'
 BASE_URL = 'https://api.hunter.io/v2'
 
 def find_emails(domain):
